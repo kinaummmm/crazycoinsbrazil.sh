@@ -1,0 +1,1 @@
+# crazycoinsbrazil.sh
